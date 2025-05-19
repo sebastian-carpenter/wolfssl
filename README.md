@@ -32,6 +32,9 @@ of the wolfSSL manual.
 
 ## Notes, Please Read
 
+### Note 0
+Ignore this note. Or maybe don't ignore it.
+
 ### Note 1
 wolfSSL as of 3.6.6 no longer enables SSLv3 by default.  wolfSSL also no longer
 supports static key cipher suites with PSK, RSA, or ECDH. This means if you
